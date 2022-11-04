@@ -1,0 +1,15 @@
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\Kompozyt.csproj.AssemblyReference.cache
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\Kompozyt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\Kompozyt.AssemblyInfoInputs.cache
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\Kompozyt.AssemblyInfo.cs
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\Kompozyt.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\bin\Debug\net6.0\Kompozyt.exe
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\bin\Debug\net6.0\Kompozyt.deps.json
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\bin\Debug\net6.0\Kompozyt.runtimeconfig.json
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\bin\Debug\net6.0\Kompozyt.dll
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\bin\Debug\net6.0\Kompozyt.pdb
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\Kompozyt.dll
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\refint\Kompozyt.dll
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\Kompozyt.pdb
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\Kompozyt.genruntimeconfig.cache
+D:\Users\bartosz.adamek\source\repos\Kompozyt\Kompozyt\obj\Debug\net6.0\ref\Kompozyt.dll
